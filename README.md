@@ -1,3 +1,4 @@
+![Image of Yaktocat](https://images.plurk.com/11gcfhnsNcbGllDqnlIx.jpg)
 # 黃勁叡 (HUANG JING RUEI)
 
 * English Name: Toby Huang
