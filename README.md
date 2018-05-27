@@ -17,11 +17,11 @@
 
 
 ### 作品集 
-- <a href="https://toby-smoothies.firebaseapp.com/#/" target="_blank"><B>Toby Smoothies 思慕昔食譜網站(Vue、Firebase)</B> (RWD)</a> <BR>
+- <a href="https://toby-smoothies.firebaseapp.com/#/" target="_blank"><B>Toby Smoothies 思慕昔食譜網站(Vue、Firebase)</B></a> <BR>
   ⌞ 使用 Firebase 的 Realtime database 抓取資料，透過 Vue.js 呈現在網頁上。 <BR>
   ⌞ Vue-cli 架設 webpack 工作環境。 <BR>
 
-- <a href="https://toby-chat.firebaseapp.com/" target="_blank"><B>Toby Chat 聊天平台(Vue、Firebase)</B> (RWD)</a> <BR>
+- <a href="https://toby-chat.firebaseapp.com/" target="_blank"><B>Toby Chat 聊天平台(Vue、Firebase)</B></a> <BR>
   ⌞ 使用 Vue.js + Firestore 實現即時更新聊天平台。<BR>
   ⌞ 使用 Firebase Authentication 驗證使用者資訊。
   ⌞ Vue-cli 架設 webpack 工作環境。 <BR>
