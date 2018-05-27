@@ -1,50 +1,49 @@
-# ¶À«lèû (HUANG JING RUEI)
+# é»ƒå‹å¡ (HUANG JING RUEI)
 
 * English Name: Toby Huang
-* Education: ­P²z¬ì§Ş¤j¾Ç / À³¥Î¤é»y¨t
-* Location : ¥x¥_¥«ªQ¤s°Ï
+* Education: è‡´ç†ç§‘æŠ€å¤§å­¸ / æ‡‰ç”¨æ—¥èªç³»
+* Location : å°åŒ—å¸‚æ¾å±±å€
 * Mobile : 0987653376
 * E-mail : tobytohg@gmail.com
 
-### ±M·~§Ş¯à
-- HTML «Ø¥ßºô­¶¬[ºc¡BCSS ­×¹¢ºô­¶¡B¨Ï¥Î Bootstrap §Ö³t¶}µoÅTÀ³¦¡ºô­¶¡C
-- ¼¶¼g JavaScript¡A¼ô±x ES6 »yªk¡C
-- ¨Ï¥Î Vue.js + firebase ¶}µo Dynamic Web Application¡C
-- ¨ã¦³¦ê±µ Google Service API ¸gÅç
-- ¨Ï¥Î Vue.js ®Ø¬[«Øºc»´¶q«¬§Ö³tÅTÀ³ªº¤¶­±¡C
-- ¤F¸Ñ Git / Github »P°ò¥»«ü¥O¹B¥Î
+### å°ˆæ¥­æŠ€èƒ½
+- HTML å»ºç«‹ç¶²é æ¶æ§‹ã€CSS ä¿®é£¾ç¶²é ã€ä½¿ç”¨ Bootstrap å¿«é€Ÿé–‹ç™¼éŸ¿æ‡‰å¼ç¶²é ã€‚
+- æ’°å¯« JavaScriptï¼Œç†Ÿæ‚‰ ES6 èªæ³•ã€‚
+- ä½¿ç”¨ Vue.js + Firebase é–‹ç™¼ Dynamic Web Applicationã€‚
+- å…·æœ‰ä¸²æ¥ Google Service API ç¶“é©—
+- ä½¿ç”¨ Vue.js æ¡†æ¶å»ºæ§‹è¼•é‡å‹å¿«é€ŸéŸ¿æ‡‰çš„ä»‹é¢ã€‚
+- äº†è§£ Git / Github èˆ‡åŸºæœ¬æŒ‡ä»¤é‹ç”¨
 <hr>
 
 
-### §@«~¶° 
-- <a href="https://toby-smoothies.firebaseapp.com/#/" target="_blank"><B>Toby Smoothies «ä¼}©õ­¹ÃĞºô¯¸</B> (RWD)</a> <BR>
-  ? ¨Ï¥Î Firebase ªº Realtime database §ì¨ú¸ê®Æ¡A³z¹L Vue.js §e²{¦bºô­¶¤W¡C <BR>
-  ? Vue-cli ¬[³] webpack ¤u§@Àô¹Ò¡C <BR>
+### ä½œå“é›† 
+- <a href="https://toby-smoothies.firebaseapp.com/#/" target="_blank"><B>Toby Smoothies æ€æ…•æ˜”é£Ÿè­œç¶²ç«™(Vueã€Firebase)</B> (RWD)</a> <BR>
+  âŒ ä½¿ç”¨ Firebase çš„ Realtime database æŠ“å–è³‡æ–™ï¼Œé€é Vue.js å‘ˆç¾åœ¨ç¶²é ä¸Šã€‚ <BR>
+  âŒ Vue-cli æ¶è¨­ webpack å·¥ä½œç’°å¢ƒã€‚ <BR>
 
-- <a href="https://toby-chat.firebaseapp.com/" target="_blank"><B>Toby Chat ²á¤Ñ¥­¥x</B> (RWD)</a> <BR>
-  ? Firestore <BR>
-  ? ¨Ï¥Î Vue.js + Firestore ¹ê²{§Y®É§ó·s²á¤Ñ¥­¥x¡C<BR>
-  ? ¨Ï¥Î Firebase Authentication ÅçÃÒ¨Ï¥ÎªÌ¸ê°T¡C
-  ? Vue-cli ¬[³] webpack ¤u§@Àô¹Ò¡C <BR>
+- <a href="https://toby-chat.firebaseapp.com/" target="_blank"><B>Toby Chat èŠå¤©å¹³å°(Vueã€Firebase)</B> (RWD)</a> <BR>
+  âŒ ä½¿ç”¨ Vue.js + Firestore å¯¦ç¾å³æ™‚æ›´æ–°èŠå¤©å¹³å°ã€‚<BR>
+  âŒ ä½¿ç”¨ Firebase Authentication é©—è­‰ä½¿ç”¨è€…è³‡è¨Šã€‚
+  âŒ Vue-cli æ¶è¨­ webpack å·¥ä½œç’°å¢ƒã€‚ <BR>
    
-- <a href="https://geo-toby.firebaseapp.com/" target="_blank"><B>Geo Toby ²á¤ÑÀğ</B> </a> <BR>
-  ? µ²¦X Google Map Api »P Firebase ±N¸ê®Æ¼Ğ°O¦b¦a¹Ï¤W¡A¨Ï¥ÎªÌ¶¡¥i¥H¯d¨¥¤¬°Ê¡C<BR>
-  ? Vue-cli ¬[³] webpack ¤u§@Àô¹Ò¡C <BR>
-  ? ¨Ï¥Î Firebase Authentication ÅçÃÒ¨Ï¥ÎªÌ¸ê°T¡Aµn¤J«á¤~¥i¥H¨Ï¥Î¡C
+- <a href="https://geo-toby.firebaseapp.com/" target="_blank"><B>Geo Toby èŠå¤©ç‰†(Vueã€Firebase)</B> </a> <BR>
+  âŒ çµåˆ Google Map Api èˆ‡ Firebase å°‡è³‡æ–™æ¨™è¨˜åœ¨åœ°åœ–ä¸Šï¼Œä½¿ç”¨è€…é–“å¯ä»¥ç•™è¨€äº’å‹•ã€‚<BR>
+  âŒ Vue-cli æ¶è¨­ webpack å·¥ä½œç’°å¢ƒã€‚ <BR>
+  âŒ ä½¿ç”¨ Firebase Authentication é©—è­‰ä½¿ç”¨è€…è³‡è¨Šï¼Œç™»å…¥å¾Œæ‰å¯ä»¥ä½¿ç”¨ã€‚
 
 - <a href="https://tobyhuangtw.github.io/blog-bootstrap/" target="_blank"><B>Blog</B> </a> <BR>
-  ? BootStrap §Ö³t«Ø¥ß¨ã¦³ RWD ªººô­¶ <BR> 
+  âŒ BootStrap å¿«é€Ÿå»ºç«‹å…·æœ‰ RWD çš„ç¶²é  <BR> 
 
-- <a href="https://tobyhuangtw.github.io/TobyHuang.github.io/" target="_blank"><B>§Î¶Hºô¯¸</B> (RWD)</a> <BR>
-  ? BootStrap §Ö³t«Ø¥ß¨ã¦³ RWD ªººô­¶<BR>
+- <a href="https://tobyhuangtw.github.io/TobyHuang.github.io/" target="_blank"><B>å½¢è±¡ç¶²ç«™</B> (RWD)</a> <BR>
+  âŒ BootStrap å¿«é€Ÿå»ºç«‹å…·æœ‰ RWD çš„ç¶²é <BR>
 <hr>
 
-### »y¤å¯à¤O
-- ¤é¥»»y¯à¤O¸ÕÅçJLPT N1
-- BJT°Ó°È¤é»y¯à¤O¦Ò¸Õ J2
-- TOEIC 770¤À
+### èªæ–‡èƒ½åŠ›
+- æ—¥æœ¬èªèƒ½åŠ›è©¦é©—JLPT N1
+- BJTå•†å‹™æ—¥èªèƒ½åŠ›è€ƒè©¦ J2
+- TOEIC 770åˆ†
 <hr>
 
-###Ãö©ó§Ú
-* ¤j¾Ç´NÅª¤é¤å¨t¡A¤j¾Ç²¦·~«á³z¹L¦Û¾Ç¡B½u¤W½Òµ{»P®a±Ğ¦Ñ®v¾Ç²ß«eºİ§Ş³N¡C
-* ¤é¤å¤Î­^¤åÀ°§U§Ú¦b¹J¨ì°İÃD®É¯à°÷§Ö³tGoogle§ä¨ì¸Ñ¨M¤èªk¡A¨Ã¥B¯à°÷ª½±µ¾\Åª¤é¡B­^¤å¤å¥ó¡C
+###é—œæ–¼æˆ‘
+* å¤§å­¸å°±è®€æ—¥æ–‡ç³»ï¼Œå¤§å­¸ç•¢æ¥­å¾Œé€éè‡ªå­¸ã€ç·šä¸Šèª²ç¨‹èˆ‡å®¶æ•™è€å¸«å­¸ç¿’å‰ç«¯æŠ€è¡“ã€‚
+* æ—¥æ–‡åŠè‹±æ–‡å¹«åŠ©æˆ‘åœ¨é‡åˆ°å•é¡Œæ™‚èƒ½å¤ å¿«é€ŸGoogleæ‰¾åˆ°è§£æ±ºæ–¹æ³•ï¼Œä¸¦ä¸”èƒ½å¤ ç›´æ¥é–±è®€æ—¥ã€è‹±æ–‡æ–‡ä»¶ã€‚
