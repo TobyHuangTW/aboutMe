@@ -11,9 +11,9 @@
 - HTML 建立網頁架構、CSS 修飾網頁、使用 Bootstrap 快速開發響應式網頁。
 - 撰寫 JavaScript，熟悉 ES6 語法。
 - 使用 Vue.js + Firebase 開發 Dynamic Web Application。
-- 具有串接 Google Service API 經驗
+- 具有串接 Google Service API 經驗。
 - 使用 Vue.js 框架建構輕量型快速響應的介面。
-- 了解 Git / Github 與基本指令運用
+- 了解 Git / Github 與基本指令運用。
 <hr>
 
 
