@@ -24,7 +24,7 @@
 
 - <a href="https://toby-chat.firebaseapp.com/" target="_blank"><B>Toby Chat 聊天平台(Vue、Firebase)</B></a> <BR>
   ⌞ 使用 Vue.js + Firestore 實現即時更新聊天平台。<BR>
-  ⌞ 使用 Firebase Authentication 驗證使用者資訊。
+  ⌞ 使用 Firebase Authentication 驗證使用者資訊。<BR>
   ⌞ Vue-cli 架設 webpack 工作環境。 <BR>
    
 - <a href="https://geo-toby.firebaseapp.com/" target="_blank"><B>Geo Toby 聊天牆(Vue、Firebase)</B> </a> <BR>
@@ -32,7 +32,7 @@
   ⌞ Vue-cli 架設 webpack 工作環境。 <BR>
   ⌞ 使用 Firebase Authentication 驗證使用者資訊，登入後才可以使用。
 
-- <a href="https://tobyhuangtw.github.io/blog-bootstrap/" target="_blank"><B>Blog</B> </a> <BR>
+- <a href="https://tobyhuangtw.github.io/blog-bootstrap/" target="_blank"><B>Blog</B> (RWD)</a> <BR>
   ⌞ BootStrap 快速建立具有 RWD 的網頁 <BR> 
 
 - <a href="https://tobyhuangtw.github.io/TobyHuang.github.io/" target="_blank"><B>形象網站</B> (RWD)</a> <BR>
